@@ -1,5 +1,5 @@
 This repository contains source code used in the following paper.
-D. Zhang, J. Liang, and I. Singh, "Fast Transmission Distortion Estimation and Adaptive Error Protection for H.264/AVC-based Embedded Video Conferencing Systems," Signal Processing: Image Communication, Volume 28, Issue 5, May 2013, pp. 417–429.
+D. Zhang, and J. Liang, “View Synthesis Distortion Estimation with Graphical Model and Recursive Calculation of Probability Distribution,” IEEE Trans. on Circuits and Systems for Video Technology, Vol. 25, No. 5, pp. 827-840, May 2015.
 
 This readme file provides a summary on the repository directory structures and code functionalities.
 
