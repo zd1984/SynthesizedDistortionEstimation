@@ -1,0 +1,1 @@
+Gaussian noise is added to the depth map. Texture images do not have any impairment.

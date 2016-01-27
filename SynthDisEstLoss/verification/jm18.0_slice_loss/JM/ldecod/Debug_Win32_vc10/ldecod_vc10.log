@@ -1,0 +1,9 @@
+﻿Build started 1/26/2016 6:08:44 PM.
+     1>Project "H:\VSDEstimation\SynthDisEstLoss\verification\jm18.0_slice_loss\JM\ldecod_vc10.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file ".\ldecod\Debug_Win32_vc10\ldecod.lastbuildstate".
+     1>Done Building Project "H:\VSDEstimation\SynthDisEstLoss\verification\jm18.0_slice_loss\JM\ldecod_vc10.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06

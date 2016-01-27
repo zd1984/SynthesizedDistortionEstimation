@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="loss_vs">
+</Property><Property Name="Solution File" Value="D:\proj\loss_vs\loss_vs.sln">
+</Property><Property Name="User Options File" Value="D:\proj\loss_vs\loss_vs.suo">
+</Property><Property Name="Date" Value="Wednesday, September 18, 2013">
+</Property><Property Name="Time" Value="0:24 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="loss_vs.sln" Description="File successfully backed up as D:\proj\loss_vs\loss_vs.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="loss_vs.suo" Description="File successfully backed up as D:\proj\loss_vs\loss_vs.suo.old">
+</Event><Event ErrorLevel="0" Project="loss_vs" Source="loss_vs\loss_vs.vcproj" Description="Converting project file 'D:\proj\loss_vs\loss_vs\loss_vs.vcproj'.">
+</Event><Event ErrorLevel="1" Project="loss_vs" Source="loss_vs\loss_vs.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="loss_vs" Source="loss_vs\loss_vs.vcproj" Description="Done converting to new project file 'D:\proj\loss_vs\loss_vs\loss_vs.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="loss_vs" Source="loss_vs\loss_vs.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="loss_vs.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="loss_vs.sln" Description="Converted">
+</Event></UpgradeLog>
